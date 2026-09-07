@@ -119,6 +119,7 @@ Listed alphabetically.
 - [Expired Domains](https://www.expireddomains.net/) - Search expiring and deleted domains.
 - [Instant Domain Search](https://instantdomainsearch.com/) - Fast availability search.
 - [NameBio](https://namebio.com/) - Historical domain sales data.
+- [Vacato](https://vacato.io) - RDAP domain availability watchlist with Telegram/email/Slack alerts when a name looks available; free 10 domains (not a drop-catcher).
 
 ## Email Security
 
