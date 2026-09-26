@@ -12,7 +12,7 @@ Tools, APIs, datasets, libraries and resources for domain intelligence: DNS, WHO
 - Format: `[Name](https://example.com) - Short, neutral, factual description.`
 - Keep descriptions to a single sentence. No marketing superlatives.
 - Use the canonical product or project URL. No affiliate or tracking parameters.
-- New third-party product and project entries must have an Ahrefs Domain Rating (DR) of at least 30 for the project's own canonical registrable domain at review time. Include the domain, DR and check date in the pull request. A shared platform's DR, such as GitHub, npm or an RFC publisher, does not qualify; source-only projects without an independent domain require an explicit maintainer exception.
+- New third-party product and project entries must have an Ahrefs Domain Rating (DR) of at least 30 for the project's own canonical registrable domain at review time. Include the domain, DR, check date and `[Domain Rating by Ahrefs](https://ahrefs.com/)` attribution in the pull request. A shared platform's DR, such as GitHub, npm or an RFC publisher, does not qualify; source-only projects without an independent domain require an explicit maintainer exception.
 - The tool, API or dataset must be live and usable.
 - Check for duplicates before submitting.
 - Keep entries alphabetical within a section, except the maintainer's product which may lead its section.
