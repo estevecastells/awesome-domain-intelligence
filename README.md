@@ -54,6 +54,7 @@ Platforms that combine several of the categories below behind a single API or da
 - [IPinfo](https://ipinfo.io/) - IP and ASN data with domain and hosting context.
 - [Netlas](https://netlas.io/) - Internet-wide search across hosts, domains, certificates and WHOIS.
 - [SecurityTrails](https://securitytrails.com/) - Current and historical DNS, WHOIS, subdomains and IP data with an API.
+- [Whoami.xj1.fr](https://whoami.xj1.fr/) - Free domain and IP intelligence tool with DNS, hosting, ASN, email security and phishing data, plus [open Internet infrastructure datasets](https://whoami.xj1.fr/research/) built from more than 90 million domains.
 - [WhoisXML API](https://www.whoisxmlapi.com/) - WHOIS, DNS, subdomains, IP geolocation and threat-intel APIs and databases.
 
 ## DNS Tools and Lookups
