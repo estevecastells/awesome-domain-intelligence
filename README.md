@@ -118,6 +118,7 @@ Listed alphabetically.
 - [Estibot](https://www.estibot.com/) - Domain appraisal and research for investors.
 - [Expired Domains](https://www.expireddomains.net/) - Search expiring and deleted domains.
 - [Instant Domain Search](https://instantdomainsearch.com/) - Fast availability search.
+- [Karma.Domains](https://karma.domains/) - Expired, auction and backorder domain search with backlink, authority and traffic metrics, Wayback Machine history and free WHOIS and DNS lookups.
 - [NameBio](https://namebio.com/) - Historical domain sales data.
 
 ## Email Security
